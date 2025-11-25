@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>SauterCast</title>
+    <link>https://sites.google.com/saddleback.edu/sautercast</link>
+    <description>AI-generated episodes and personal notes from Mike.</description>
+    <language>en-us</language>
+
+    <itunes:author>Mike Sauter</itunes:author>
+    <itunes:summary>AI-generated, personal educational reflections and discussions.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+
+    <!-- EPISODE 1 -->
+    <item>
+      <title>Episode 1 – Culture</title>
+      <description>a discussion on the relationship between culture and the individual, particularly contrasting American individualism with other cultural practices like displays of affection</description>
+      <enclosure url="https://docs.google.com/uc?export=download&id=1J1fJHBrX8lwobQlt1EKIBcvN5Inm8soM" type="audio/mpeg" />
+      <guid>episode-1</guid>
+      <pubDate>Mon, 24 Nov 2025 12:00:00 GMT</pubDate>
+
+      <itunes:author>Mike Sauter</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- EPISODE 2 -->
+    <item>
+      <title>Episode 2 – Language</title>
+      <description>A chapter titled Language and Communication, from the textbook, Cultural Anthropology 18th edition offers an extensive overview of linguistic anthropology and sociolinguistics. It begins by distinguishing human language from nonhuman primate call systems, emphasizing unique features like displacement and productivity, and discussing the capacity of apes to learn sign language</description>
+      <enclosure url="https://docs.google.com/uc?export=download&id=10uCIrEquyugrdAG22oG4lGdfd35jXx_l" type="audio/mpeg" />
+      <guid>episode-2</guid>
+      <pubDate>Tue, 25 Nov 2025 12:00:00 GMT</pubDate>
+
+      <itunes:author>Mike Sauter</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- EPISODE 3 -->
+    <item>
+      <title>Episode 3 – Religion</title>
+      <description>A discussion on religion and understanding why we believe</description>
+      <enclosure url="https://docs.google.com/uc?export=download&id=1taPBNqHjIQ8xMqGPMF_hTtQMOY_Nc182" type="audio/mpeg" />
+      <guid>episode-3</guid>
+      <pubDate>Tue, 25 Nov 2025 12:00:00 GMT</pubDate>
+
+      <itunes:author>Mike Sauter</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
